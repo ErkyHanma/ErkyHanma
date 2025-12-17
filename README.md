@@ -1,16 +1,11 @@
-# 🧪 ErkyHanma
+# 🌊 ErkyHanma
 
-<div>
+
 
 **`Digital Alchemist`**
 
-<img align="right" src="https://i.giphy.com/BmzqC8YEtarJK.webp" width="300" alt="GIF">
-
 I'm a full-stack developer passionate about building solutions from the ground up. Every project begins with careful planning and design, evolving through development to solve real-world problems with clean, efficient code.
 
-</div>
-
-<br clear="right"/>
 
 ---
 
@@ -33,6 +28,7 @@ I'm a full-stack developer passionate about building solutions from the ground u
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -61,5 +57,4 @@ This philosophy drives my approach to development. Every bug, every challenge, e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yenzel.bt@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portafolio-umber-rho.vercel.app/)
-
 
