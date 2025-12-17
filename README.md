@@ -29,6 +29,15 @@ I'm a full-stack developer passionate about building solutions from the ground u
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+### 🎯 Current Focus
+
+- 🔭 Building scalable full-stack applications
+- 💡 Exploring system design and architecture
+- 🔭 Learning and building modern web applications with a focus on clean architecture and maintainable code
+- 💡 Continuously improving my full-stack skills through hands-on projects and real-world problem solving
+- 🌱 Working on becoming a better developer and a better person through discipline, consistency, and learning from failure
 
 ---
 
@@ -40,15 +49,6 @@ I'm a full-stack developer passionate about building solutions from the ground u
 
 This philosophy drives my approach to development. Every bug, every challenge, every late night debugging session shapes me into a stronger developer. I embrace the struggle because I know that's where real growth happens.
 
----
-
-### 🎯 Current Focus
-
-- 🔭 Building scalable full-stack applications
-- 💡 Exploring system design and architecture
-- 🔭 Learning and building modern web applications with a focus on clean architecture and maintainable code
-- 💡 Continuously improving my full-stack skills through hands-on projects and real-world problem solving
-- 🌱 Working on becoming a better developer and a better person through discipline, consistency, and learning from failure
 
 ---
 
